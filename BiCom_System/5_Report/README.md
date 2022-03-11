@@ -1,7 +1,10 @@
 
-Description
+# Description
+
+
 Bicom System
 A Bicom system is the extention of the unidirectional RKE to bidirectional RKE. This systems shows alarm statuts, window status, car battery information and door status.Each of these functions are displayed with the help of LED. For window status blue switch on all led on at the same time. For alarm status blue switch pressed two times all led off at the same time. For battery switch press Three times all led in clockwise manner and for Door status press switch four times all led in anticlockwise direction.
+
 
 Features
 It will dislay Window status of the car when Button is pressed one time
@@ -22,7 +25,7 @@ LLR3	Press blue button 3 time, All led glows in clockwise manner.
 LLR4	Press blue button 4 time, All led glows in anticlockwise manner.
 1_Yf7Ku0L_P7wTaYJ4QCHxUw
 
-SWOT
+ # SWOT
 Strength:
 
 we can check our window,alarm,battery and door status with button click.
@@ -34,7 +37,7 @@ Opportunities
 Allow users to use their smartphones for checking the security factor of car and even controlling extra features.
 Threats: * Thieves, however, are rising to the challenge, using radio transmitters to perform ‘relay’ car hacks to capture the signal from the car’s fob possibility for hackers to manipulate the technology and steal your vehicle.
 
-5W's And 1H
+# 5W's And 1H
 Who
 People who own a car.
 What
