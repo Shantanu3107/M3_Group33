@@ -63,3 +63,6 @@ The features can be used by buttons of your remote or device .
 # Behavioural Diagram
 ![Bicom system (1)](https://user-images.githubusercontent.com/98838344/157845520-9403535f-ff74-4a39-96b5-818670e9664c.png)
 
+# Test Plan
+
+
