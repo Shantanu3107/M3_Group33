@@ -68,6 +68,8 @@ Threats: * Thieves, however, are rising to the challenge, using radio transmitte
 
 # Behavioural Diagram
 ![Bicom system (1)](https://user-images.githubusercontent.com/98838344/157845520-9403535f-ff74-4a39-96b5-818670e9664c.png)
+# Structural Diagram
+![Blank diagram (5)](https://user-images.githubusercontent.com/98872208/157848784-9e2a00c0-9b34-47b7-94e7-89dc3da5dc58.png)
 
 # Test Plan
 
