@@ -58,3 +58,26 @@ Remote keyless entry (RKE) is an electronic access system that can be controlled
 # Structural diagram
 ![Blank diagram (3)](https://user-images.githubusercontent.com/98872208/157844431-cb8e04c1-fb6e-4dd3-b52b-2d7481b0f48d.png)
 
+
+# Test Plan and Output
+
+## High level test plan
+
+| Test ID | Description | Input  |      Expected output | Actual output |
+|---------:|:-----------:|:------------------:|:----------------:|:---------------|
+| 01       | Lock        |  User presses button once | Lock the car | Lock the car |
+| 02       | Unlock      | User presses button twice  | Unlock the car | Unlock the car |
+| 03       | Alarm Activate / Deactivate |  User presses button three times | Activate or Deactivate alarm | Activate or Deactivate alarm |
+| 04       | Approach light  |  User presses button four times | Turn on approach light | Turn on approach light |
+
+## Low level test plan
+
+| Test ID  | Description | Input |  Expected output | Actual output | Passed |
+|------------:|:-----------------:|:----------------:|:-----------------:|:------------------:|:---------|
+| 01 | check for lock | User presses button once | All LEDs should on | All LEDs should on | Pass |
+| 02 | Check for unlock | User presses button twice | All LEDs should off | All LEDs should off | Pass |
+| 03 | Check for alarm activate/deactivate | User presses button three times | LEDs should on clockwise | LEDs should on clockwise | Pass |
+| 04 | Check for approach light | User presses button four times | LEDs should on anticlockwise |  LEDs should on anticlockwise | Pass|
+
+
+
