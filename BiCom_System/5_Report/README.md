@@ -39,16 +39,27 @@ Threats: * Thieves, however, are rising to the challenge, using radio transmitte
 
 # 5W's And 1H
 Who
+
 People who own a car.
 What
+
 The system can control the feature of car by wireless key.
 The status of different features of the car is given by LED's or display.
 When
+
 When the user wants to know the status of windows , alarm ,battery and door.
 Where
+
 Where the owner want to use the features of ther car provided .
 Why
+
 To know the working and status of different features of the car.
 To use different feature of the car with ease .
 How
+
 The features can be used by buttons of your remote or device .
+
+
+# Behavioural Diagram
+![Bicom system (1)](https://user-images.githubusercontent.com/98838344/157845520-9403535f-ff74-4a39-96b5-818670e9664c.png)
+
