@@ -24,8 +24,21 @@
 |LLR1|Press blue button 1 time, All led ON at the same time.
 |LLR2|Press blue button 2 time, All led OFF at the same time.
 |LLR3|Press blue button 3 time, All led  glows in clockwise manner.
-|LLR4|Press blue button 4 time, All led glows in anticlockwise manner.  
- 
+|LLR4|Press blue button 4 time, All led glows in anticlockwise manner. 
+
+![1_Yf7Ku0L_P7wTaYJ4QCHxUw](https://user-images.githubusercontent.com/98872208/157837218-cabf1512-80ee-4d6b-b9b0-34ca1bface06.png)
+# SWOT
+  * Strength:
+       * we can check our window,alarm,battery and door status with button click.
+  * Weakness:
+       *	It has limited range and Replacing a lost fob costs much more than a traditional key.
+  * Opportunities
+       *	Allow users to use their smartphones for checking the security factor of car and  even controlling extra features.
+	
+  * Threats:
+	      * Thieves, however, are rising to the challenge, using radio transmitters to perform ‘relay’ car hacks to capture the signal from the car’s fob 
+          possibility for hackers to manipulate the technology and steal your vehicle.
+
 ## 5W's And 1H
 
 ## Who
