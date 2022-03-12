@@ -2,5 +2,7 @@
 
 | Contents | Done by |
 |-----:|:-------------|
-|  Remote Keyless entry | Shantanu Chafle and Sumeet Gokhare |
-| Bicom system | Shriya Fadnavis and Prachi Jambhulkar |
+| Bicom system Implementation| All
+|Bicom system repository |Shriya Fadnavis and Prachi Jambhulkar |
+|  Remote Keyless entry Implementation |All
+| Remote keyless repository  |  Shantanu Chafle and Sumeet Gokhare |
